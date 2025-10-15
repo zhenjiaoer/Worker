@@ -1,0 +1,27 @@
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
+166.88.100.12,30025,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,81 ms,11403 kB/s
+192.243.119.185,50100,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,179 ms,10045 kB/s
+45.8.115.121,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,88 ms,8643 kB/s
+45.78.55.192,23232,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,107 ms,7189 kB/s
+212.50.246.91,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,116 ms,5922 kB/s
+154.31.116.34,20020,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,81 ms,4946 kB/s
+210.99.119.3,10005,true,LAX,KR,North America,Los Angeles,北美洲,美国,洛杉矶,🇺🇸,251 ms,2572 kB/s
+140.83.57.183,22735,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,134 ms,1302 kB/s
+49.212.133.94,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,79 ms,674 kB/s
+64.110.106.255,627,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,127 ms,506 kB/s
+121.80.244.179,11084,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,79 ms,401 kB/s
+121.80.244.179,10439,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,85 ms,310 kB/s
+121.80.244.179,32777,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,85 ms,271 kB/s
+121.80.244.179,20000,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,145 ms,197 kB/s
+217.142.227.105,20071,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,199 ms,73 kB/s
+217.142.236.93,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,196 ms,44 kB/s
+172.233.82.44,993,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,133 ms,40 kB/s
+168.138.46.67,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,208 ms,39 kB/s
+168.138.46.115,43138,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,136 ms,33 kB/s
+172.233.82.44,444,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,137 ms,30 kB/s
+152.69.202.173,59407,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,136 ms,28 kB/s
+64.110.104.30,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,190 ms,19 kB/s
+217.142.231.34,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,219 ms,0 kB/s
+217.142.231.34,2053,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,186 ms,0 kB/s
+119.10.231.30,10206,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,340 ms,0 kB/s
+121.80.244.179,12333,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,171 ms,0 kB/s
