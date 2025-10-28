@@ -1,10 +1,6 @@
-IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-45.78.55.192,23232,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,69 ms,13351 kB/s
-166.88.100.12,30025,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,85 ms,11027 kB/s
-192.243.119.185,50100,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,170 ms,10521 kB/s
-154.31.116.34,20020,true,NRT,JP,Asia Pacific,Tokyo,亚洲,日本,东京,🇯🇵,66 ms,5172 kB/s
-45.8.115.121,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,245 ms,4308 kB/s
-64.110.106.255,627,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,188 ms,3310 kB/s
-152.69.202.173,59407,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,194 ms,241 kB/s
-217.142.231.34,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,213 ms,0 kB/s
-217.142.227.105,20071,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,182 ms,0 kB/s
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
+217.142.227.105,20071,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,183 ms
+217.142.236.93,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,190 ms
+140.83.57.183,22735,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,193 ms
+168.138.46.67,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,195 ms
+64.110.104.30,443,true,KIX,JP,Asia Pacific,Osaka,亚洲,日本,大阪,🇯🇵,202 ms

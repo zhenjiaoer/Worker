@@ -1,228 +1,162 @@
-IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-59.3.3.161,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms,11327 kB/s
-121.178.121.161,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,123 ms,9107 kB/s
-222.114.206.19,10352,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,116 ms,9086 kB/s
-211.215.133.125,18080,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,71 ms,8937 kB/s
-182.211.29.41,20085,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,8820 kB/s
-58.239.237.226,10379,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,8753 kB/s
-116.44.53.251,12211,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,107 ms,8616 kB/s
-222.112.191.5,33334,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,8500 kB/s
-211.195.83.140,12194,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,8398 kB/s
-125.143.29.83,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,7975 kB/s
-61.83.53.33,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,7927 kB/s
-116.44.53.251,10801,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,103 ms,7919 kB/s
-58.235.104.145,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,7823 kB/s
-220.92.20.21,30050,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms,7773 kB/s
-220.124.144.20,12142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,7717 kB/s
-182.211.29.41,22990,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,7626 kB/s
-220.125.55.47,12251,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms,7571 kB/s
-112.186.25.177,10062,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,7542 kB/s
-211.63.181.106,10370,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,128 ms,7407 kB/s
-182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,7372 kB/s
-106.242.185.158,32784,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,94 ms,7350 kB/s
-1.223.156.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,7332 kB/s
-175.113.11.149,10265,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms,7203 kB/s
-115.91.165.115,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,7116 kB/s
-61.83.8.8,10416,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,130 ms,7097 kB/s
-175.213.245.239,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms,7018 kB/s
-221.161.207.216,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,6916 kB/s
-211.192.254.96,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,6793 kB/s
-125.135.43.66,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,6757 kB/s
-106.242.64.238,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,6619 kB/s
-211.105.156.214,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms,6522 kB/s
-112.185.223.152,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms,6494 kB/s
-112.146.187.55,29765,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,6450 kB/s
-61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,6412 kB/s
-121.175.54.93,30037,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,6401 kB/s
-124.111.11.3,20067,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,6388 kB/s
-175.113.29.202,30027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,6280 kB/s
-175.120.200.238,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms,6264 kB/s
-175.211.17.201,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms,6194 kB/s
-220.124.39.201,11300,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,125 ms,6193 kB/s
-112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,113 ms,6109 kB/s
-175.207.201.57,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms,6092 kB/s
-211.57.29.229,12699,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,139 ms,6080 kB/s
-121.132.24.246,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms,6025 kB/s
-59.9.52.28,30009,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms,5967 kB/s
-115.23.240.181,12109,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,112 ms,5966 kB/s
-112.161.221.228,10384,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,5900 kB/s
-121.128.236.164,13579,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,5831 kB/s
-118.45.137.245,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,5782 kB/s
-59.8.196.21,20153,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,126 ms,5759 kB/s
-222.97.1.10,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,5730 kB/s
-125.133.18.143,10137,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,113 ms,5676 kB/s
-221.167.103.240,12036,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,5629 kB/s
-218.147.66.126,20019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,5577 kB/s
-59.29.89.197,20114,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms,5562 kB/s
-121.128.236.164,20142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,5542 kB/s
-175.207.249.159,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,129 ms,5475 kB/s
-59.8.196.21,10002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,5468 kB/s
-222.104.213.148,12408,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,5405 kB/s
-218.38.109.120,30027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,65 ms,5332 kB/s
-119.192.158.53,32779,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,111 ms,5327 kB/s
-112.165.215.157,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,5319 kB/s
-121.152.118.98,10227,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,5290 kB/s
-119.200.105.210,33403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms,5274 kB/s
-121.153.128.196,10216,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,5270 kB/s
-112.185.213.4,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,94 ms,5264 kB/s
-220.118.83.101,60004,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,5232 kB/s
-115.90.70.246,18983,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,5217 kB/s
-211.48.30.184,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,72 ms,5109 kB/s
-222.104.213.148,12374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms,5079 kB/s
-222.110.16.126,10405,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,5061 kB/s
-121.136.66.77,10050,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,5055 kB/s
-218.209.5.180,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,60 ms,5048 kB/s
-218.156.233.76,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms,5009 kB/s
-121.125.185.13,33403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,4896 kB/s
-221.164.141.35,16078,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms,4856 kB/s
-218.147.68.117,33530,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,4855 kB/s
-115.93.169.180,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,4819 kB/s
-220.71.102.124,16626,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,4817 kB/s
-222.103.221.171,27002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,4799 kB/s
-121.167.58.196,10554,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,4789 kB/s
-39.121.234.38,10182,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,4780 kB/s
-125.137.215.221,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,122 ms,4753 kB/s
-211.229.77.184,33053,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,4675 kB/s
-119.195.36.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms,4619 kB/s
-118.45.138.207,12403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms,4583 kB/s
-121.154.2.209,11169,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,108 ms,4578 kB/s
-211.194.169.14,12699,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,110 ms,4575 kB/s
-119.200.105.210,10211,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,139 ms,4565 kB/s
-211.184.116.84,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms,4446 kB/s
-112.170.224.52,10206,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,4351 kB/s
-14.33.140.80,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,4346 kB/s
-220.71.102.124,32783,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,133 ms,4285 kB/s
-118.41.206.30,15200,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,4281 kB/s
-203.227.187.22,7000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,211 ms,4244 kB/s
-112.167.163.6,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms,4186 kB/s
-49.175.64.126,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,4163 kB/s
-119.201.181.172,32783,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms,4033 kB/s
-193.122.113.180,443,true,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,279 ms,3968 kB/s
-211.57.90.42,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms,3939 kB/s
-121.152.118.98,10337,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,71 ms,3911 kB/s
-220.124.39.201,10374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,3892 kB/s
-106.244.201.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,3822 kB/s
-221.159.179.128,12475,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,3793 kB/s
-117.123.23.173,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,3774 kB/s
-211.229.243.246,10123,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,109 ms,3715 kB/s
-211.47.97.167,11017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms,3681 kB/s
-61.79.232.2,18111,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,122 ms,3670 kB/s
-124.63.101.43,30037,true,HKG,KR,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,142 ms,3592 kB/s
-211.57.29.229,12257,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,3431 kB/s
-27.35.9.57,32776,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms,3401 kB/s
-119.200.105.210,20111,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,170 ms,3357 kB/s
-220.81.10.138,11103,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,94 ms,3352 kB/s
-222.104.213.148,31401,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,3296 kB/s
-183.97.196.49,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,3208 kB/s
-220.125.55.47,16012,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms,3049 kB/s
-124.61.52.107,16027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,177 ms,3004 kB/s
-14.33.140.80,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,2998 kB/s
-222.113.18.206,10913,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,190 ms,2992 kB/s
-59.1.74.97,34997,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,126 ms,2990 kB/s
-210.91.199.121,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms,2911 kB/s
-211.57.29.229,12285,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,111 ms,2895 kB/s
-119.65.139.101,60001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,192 ms,2892 kB/s
-182.211.29.41,30023,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,2816 kB/s
-147.46.120.110,30122,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms,2603 kB/s
-118.46.37.203,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,180 ms,2440 kB/s
-59.25.160.141,30015,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,151 ms,2338 kB/s
-124.61.52.107,10105,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,142 ms,2262 kB/s
-211.197.161.123,10428,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms,2179 kB/s
-27.100.189.152,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms,2019 kB/s
-119.203.219.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,109 ms,1912 kB/s
-218.38.109.120,30011,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,1793 kB/s
-43.155.186.100,446,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,1702 kB/s
-182.208.209.54,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,109 ms,1687 kB/s
-222.113.18.207,10319,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,154 ms,1593 kB/s
-175.206.226.93,10305,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,1590 kB/s
-222.113.18.211,20150,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,238 ms,1581 kB/s
-61.102.250.123,12205,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,1548 kB/s
-125.135.4.15,30000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms,1438 kB/s
-124.61.52.107,11027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,175 ms,1435 kB/s
-115.40.244.240,18005,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,159 ms,1419 kB/s
-59.25.160.141,30009,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,105 ms,1363 kB/s
-218.151.91.131,12151,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,105 ms,1322 kB/s
-222.113.18.207,11192,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,173 ms,1315 kB/s
-119.200.105.210,10061,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,116 ms,1304 kB/s
-211.57.29.229,10071,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,122 ms,1291 kB/s
-118.45.150.77,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,184 ms,1272 kB/s
-115.40.244.240,10286,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,159 ms,1153 kB/s
-220.83.182.223,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,1087 kB/s
-222.113.18.211,17121,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,241 ms,1084 kB/s
-218.147.4.56,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,1046 kB/s
-115.40.244.240,11581,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,159 ms,1043 kB/s
-61.102.250.123,10400,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,1027 kB/s
-211.197.161.123,11255,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,112 ms,957 kB/s
-211.57.29.229,12141,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,112 ms,948 kB/s
-222.113.18.211,10159,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,166 ms,926 kB/s
-121.152.118.98,20057,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms,878 kB/s
-106.252.245.199,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,579 ms,838 kB/s
-193.122.115.67,4434,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,214 ms,813 kB/s
-124.61.52.107,10222,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,141 ms,765 kB/s
-61.102.250.123,10272,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,677 kB/s
-211.195.83.140,24844,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,645 kB/s
-222.113.18.214,12158,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,402 ms,643 kB/s
-222.113.18.214,10283,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,374 ms,632 kB/s
-211.57.29.229,12104,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,105 ms,622 kB/s
-118.91.78.76,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,176 ms,591 kB/s
-112.167.218.150,10155,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms,554 kB/s
-116.93.199.28,10323,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,209 ms,547 kB/s
-211.57.29.229,32757,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,106 ms,505 kB/s
-211.47.97.167,10340,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms,479 kB/s
-119.205.235.58,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms,470 kB/s
-124.61.52.107,10778,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,136 ms,468 kB/s
-61.102.250.123,10999,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,421 kB/s
-59.187.222.185,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,128 ms,420 kB/s
-211.57.29.229,20076,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,412 kB/s
-175.212.200.252,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,375 kB/s
-64.176.227.171,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,173 ms,373 kB/s
-111.91.155.205,10600,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,257 ms,364 kB/s
-222.113.18.211,20440,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,280 ms,357 kB/s
-61.102.250.123,10210,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms,347 kB/s
-119.64.242.60,60002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms,330 kB/s
-183.78.242.78,11883,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms,317 kB/s
-222.113.18.211,14443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,281 ms,315 kB/s
-222.113.18.211,12436,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,245 ms,276 kB/s
-112.170.224.52,10263,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,120 ms,276 kB/s
-125.135.4.15,12020,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms,276 kB/s
-59.1.74.97,11122,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,254 kB/s
-158.180.78.30,9877,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,152 ms,252 kB/s
-118.41.27.62,12166,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,120 ms,217 kB/s
-14.32.12.235,12182,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,513 ms,183 kB/s
-112.161.221.228,10051,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms,152 kB/s
-222.113.18.207,12289,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,200 ms,103 kB/s
-158.180.69.78,12198,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,495 ms,100 kB/s
-116.93.199.28,10449,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,195 ms,71 kB/s
-121.190.104.24,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,65 kB/s
-211.177.114.117,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,96 ms,64 kB/s
-222.113.18.214,12469,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,374 ms,39 kB/s
-112.186.25.177,18060,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms,32 kB/s
-222.113.18.214,10378,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,377 ms,28 kB/s
-222.113.18.214,10438,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,376 ms,28 kB/s
-140.238.8.92,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,230 ms,11 kB/s
-220.80.70.100,12369,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms,1 kB/s
-132.145.81.117,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,224 ms,0 kB/s
-222.113.18.207,20032,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,177 ms,0 kB/s
-49.174.170.115,10030,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms,0 kB/s
-211.59.232.85,12140,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,181 ms,0 kB/s
-116.93.199.28,10114,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,204 ms,0 kB/s
-222.104.213.148,33143,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms,0 kB/s
-221.164.141.35,10307,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms,0 kB/s
-27.100.229.147,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms,0 kB/s
-121.151.58.209,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,0 kB/s
-124.111.222.10,10142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms,0 kB/s
-152.70.253.44,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,221 ms,0 kB/s
-119.201.195.135,10001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,103 ms,0 kB/s
-116.93.199.28,12136,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,198 ms,0 kB/s
-222.113.18.214,10398,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,409 ms,0 kB/s
-222.113.18.207,32764,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,219 ms,0 kB/s
-124.61.52.107,10198,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,140 ms,0 kB/s
-222.113.18.207,32759,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,264 ms,0 kB/s
-222.113.18.214,12141,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,401 ms,0 kB/s
-1.176.130.28,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,101 ms,0 kB/s
-222.113.18.211,12373,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,258 ms,0 kB/s
-211.177.114.117,10435,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms,0 kB/s
-124.61.52.107,20007,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,180 ms,0 kB/s
-124.61.52.107,12351,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,179 ms,0 kB/s
-175.200.159.205,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms,0 kB/s
-124.61.52.107,20197,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,166 ms,0 kB/s
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
+114.204.41.241,30003,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,63 ms
+220.118.83.101,60004,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,68 ms
+43.155.186.100,446,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,69 ms
+220.81.10.138,11103,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,72 ms
+218.147.4.56,30019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms
+118.45.138.207,12403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms
+112.167.163.6,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,73 ms
+117.123.23.173,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms
+39.121.234.38,10182,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,74 ms
+121.153.128.196,10216,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms
+222.110.16.126,10405,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms
+211.184.116.84,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms
+222.114.206.19,10352,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms
+175.113.11.149,10265,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,75 ms
+220.71.102.124,16626,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms
+220.124.144.20,12142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms
+218.156.233.76,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms
+118.223.252.190,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms
+222.112.191.5,33334,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,76 ms
+211.105.156.214,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+112.170.224.52,10263,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+125.143.29.83,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+112.165.215.157,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+119.64.242.60,60002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+59.9.52.28,30009,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+121.125.185.13,33403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+119.192.158.53,32779,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,77 ms
+121.167.58.196,10554,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+59.8.196.21,10002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+121.152.118.98,10337,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+211.48.30.184,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+125.135.43.66,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+61.72.176.145,18016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+115.23.240.181,12109,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+59.8.196.21,20153,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+218.147.66.126,20019,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,78 ms
+123.111.169.70,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+220.83.182.223,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+121.135.22.254,10333,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+210.91.199.121,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+183.97.196.49,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+112.186.25.177,18060,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,79 ms
+112.167.218.150,10155,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms
+121.178.121.161,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms
+125.137.215.221,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,80 ms
+222.104.213.148,31401,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+220.80.70.100,12369,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+220.125.55.47,12251,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+121.152.118.98,20057,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+123.111.169.70,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+221.164.141.35,16078,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+118.41.206.30,15200,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,81 ms
+183.97.188.34,10800,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms
+211.195.83.140,24844,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms
+211.195.83.140,12194,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,82 ms
+175.200.159.205,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+182.211.29.41,22990,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+112.185.223.152,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+175.213.245.239,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+112.185.213.4,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+118.223.217.35,30011,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+220.124.39.201,10374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,83 ms
+182.211.29.41,30023,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms
+182.211.29.41,20085,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,84 ms
+112.170.224.52,10206,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms
+222.104.213.148,12408,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms
+112.161.221.228,10384,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms
+222.104.213.148,12374,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms
+1.221.122.2,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,85 ms
+220.92.20.21,30050,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
+112.165.11.40,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
+211.63.181.106,10370,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
+175.113.29.202,30027,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,86 ms
+115.91.165.115,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,87 ms
+61.102.250.123,12205,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms
+123.111.253.155,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,88 ms
+58.239.237.226,10379,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms
+112.146.187.55,29765,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms
+124.111.222.10,10142,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,89 ms
+59.6.239.208,10202,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
+218.54.55.117,33037,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
+123.214.83.63,20332,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,90 ms
+106.242.64.238,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
+211.229.243.246,10123,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
+119.195.36.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
+220.71.102.124,32783,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,91 ms
+112.161.221.228,10051,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
+112.133.148.226,11008,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
+124.111.11.3,20067,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,92 ms
+182.224.75.12,10325,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms
+49.174.170.115,10030,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms
+59.6.239.208,32788,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,93 ms
+123.214.83.63,12165,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,94 ms
+49.175.64.126,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,94 ms
+59.187.222.185,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms
+106.242.185.158,32784,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,95 ms
+61.102.250.123,10999,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,96 ms
+222.103.221.171,27002,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms
+106.244.201.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,97 ms
+58.76.69.164,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,98 ms
+116.44.53.251,10801,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
+61.102.250.123,10400,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
+115.90.70.246,18983,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
+59.6.239.208,17077,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
+1.223.156.69,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,99 ms
+183.78.242.78,11883,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,100 ms
+61.102.250.123,10272,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms
+112.133.148.226,20016,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,102 ms
+59.6.239.208,10227,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,103 ms
+220.124.39.201,11300,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms
+59.3.3.161,8443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,104 ms
+116.44.53.251,12211,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,105 ms
+118.45.137.245,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,107 ms
+59.6.239.208,16045,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,108 ms
+61.102.250.123,10210,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,110 ms
+119.203.219.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,111 ms
+118.47.65.248,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,112 ms
+218.147.68.117,33530,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,112 ms
+222.97.1.10,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,113 ms
+221.164.141.35,10307,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms
+211.192.254.96,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms
+211.194.169.14,12699,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,114 ms
+119.201.181.172,32783,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+59.29.89.197,20114,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+121.136.66.77,10050,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+61.83.53.33,30029,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+119.65.139.101,60001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+175.212.200.252,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,115 ms
+220.125.55.47,16012,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
+27.35.9.57,32776,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,117 ms
+121.151.58.209,30017,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms
+118.33.229.115,10381,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,118 ms
+221.161.207.216,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,120 ms
+121.152.118.98,10227,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,121 ms
+118.32.105.202,50000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,123 ms
+175.200.106.239,22000,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,124 ms
+221.159.179.128,12475,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,125 ms
+175.207.249.159,50001,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,129 ms
+222.104.213.148,33143,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,133 ms
+222.104.213.148,22990,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,136 ms
+158.180.78.30,9877,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,147 ms
+146.56.99.22,20443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,149 ms
+124.63.101.43,30037,true,HKG,KR,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,160 ms
+115.40.244.240,11581,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,163 ms
+119.205.235.58,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,163 ms
+115.40.244.240,18005,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,164 ms
+64.176.227.171,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,170 ms
+115.40.244.240,10286,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,173 ms
+132.145.81.117,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,182 ms
+140.238.8.92,443,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,184 ms
+193.122.115.67,4434,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,189 ms
+222.113.18.214,16403,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,200 ms
+116.93.199.28,10323,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,255 ms
+111.91.155.205,10600,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,263 ms
+222.113.18.211,17121,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,440 ms
+222.113.18.211,12436,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,446 ms
+222.113.18.211,12373,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,453 ms
+222.113.18.211,32763,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,460 ms
+222.113.18.211,20440,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,469 ms
+222.113.18.211,20150,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,474 ms
+222.113.18.211,12540,true,ICN,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,🇰🇷,482 ms
