@@ -1,9 +1,8 @@
 IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟
-27.254.163.51,10327,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,154 ms
-171.103.223.30,10239,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,279 ms
-171.103.222.142,18110,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,286 ms
-171.103.231.6,33399,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,382 ms
-171.103.231.6,18082,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,388 ms
-171.103.14.207,10071,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,428 ms
-171.103.164.62,30921,true,HKG,TH,Asia Pacific,Hong Kong,亚洲,香港,香港,🇭🇰,439 ms
-171.103.14.247,10034,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,442 ms
+27.254.163.51,10327,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,169 ms
+171.103.222.142,18110,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,296 ms
+171.103.223.30,10239,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,297 ms
+171.103.14.207,10071,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,299 ms
+171.103.14.247,10034,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,313 ms
+171.103.14.55,10111,true,BKK,TH,Asia Pacific,Bangkok,亚洲,泰国,曼谷,🇹🇭,316 ms
+171.103.164.62,30921,true,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,🇸🇬,459 ms
